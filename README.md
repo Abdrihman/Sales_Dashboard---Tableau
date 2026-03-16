@@ -13,4 +13,4 @@ This project is a sales analytics dashboard built using Tableau.
 - Regional sales comparison
 
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](image.png)
